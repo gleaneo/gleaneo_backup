@@ -90,3 +90,6 @@ languageMenuName = "🌐"
 
 # Title separator, default to |.
 # titleSeparator = "|"
+
+# disqus comment
+disqusShortname = "gleaneo"
