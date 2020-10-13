@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://gleaneo.com/"  # Include trailing slash
-title = "Clarity"
+title = "Gleaneo"
 author = "Jane Doe"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 # canonifyurls = true
